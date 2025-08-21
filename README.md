@@ -3,13 +3,13 @@
 
 - 👨‍💻 All of my projects are available at [ivanpuha.com](https://www.ivanpuha.com)  
 - 📫 Reach me at **unsaightly@gmail.com**  
-- 📄 Know about my experiences: [My Resume](https://www.ivanpuha.com/assets/resume.pdf)
+- 📄 Know about my experiences: [My Resume](https://www.ivanpuha.com/resume.pdf)
 
 ---
 
 ### 🌐 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/ivan-puha" target="blank">
+<a href="https://linkedin.com/in/ivan-puga" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ivanpuha" height="30" width="40" />
 </a>
 </p>
@@ -52,5 +52,6 @@
 
 ### 🚀 Featured Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=puhaivan&repo=ai-image-generator&theme=radical)](https://github.com/puhaivan/ai-image-generator)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=puhaivan&repo=3d-solar-scroll&theme=radical)](https://github.com/puhaivan/Solar-Scroll-3D-)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=puhaivan&repo=Solar-Scroll-3D-&theme=radical)](https://github.com/puhaivan/Solar-Scroll-3D-)
 
